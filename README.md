@@ -94,12 +94,12 @@ while (coding) {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abou1205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abou1205&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebubekirylmaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirylmaz&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abou1205&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebubekirylmaz&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ## 🌟 What I Do Best
@@ -129,7 +129,7 @@ while (coding) {
 ## 💡 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Abou1205?tab=repositories">
+  <a href="https://github.com/ebubekirylmaz?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
