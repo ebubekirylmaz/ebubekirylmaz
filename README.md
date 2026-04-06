@@ -167,7 +167,7 @@ Whether you have a project idea, want to discuss tech, or just say hello, I'm al
   <a href="https://www.linkedin.com/in/ebubekir-yilmaz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ebu1205ed@gmail.com">
+  <a href="mailto:ebubekir.yilmazz.20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
